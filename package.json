@@ -1,0 +1,25 @@
+{
+  "name": "hellohapi",
+  "version": "1.0.0",
+  "description": "Hello Hapi Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achavanga/Hello_hapi.git"
+  },
+  "keywords": [
+    "hapi.dev"
+  ],
+  "author": "Abel Chavanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achavanga/Hello_hapi/issues"
+  },
+  "homepage": "https://github.com/achavanga/Hello_hapi#readme",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1"
+  }
+}
